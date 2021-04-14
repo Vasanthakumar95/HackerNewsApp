@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HackerNewsApp</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Comments">Comments</string>
+    <string name="Article">Article</string>
+
+    <!-- Temp Strings -->
+    <string name="Title">Internet Vulnerability Takes Down Google</string>
+    <string name="Website">blog.thousandeyes.com</string>
+    <string name="LastUpdate_Author">3h - doener</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="comment">Most importantly it will drain funding from the already hurting schools in poor areas, while the job &quot;market&quot;, or rather employers, will demand ever better, more specialized education in many areas to have a job that provides a living wage.Schools in poor areas are not a profitable enterprise. Companies do not even run schools if they can help it</string>
+
+    <string name="LatestNews">Latest News</string>
+</resources>
