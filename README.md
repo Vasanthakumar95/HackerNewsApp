@@ -10,5 +10,5 @@ Simple news app
 - Retrofit 
 
 # Driver UI
-<img src = "app%20screen%20shot/driver/1.png" width ="200" /> <img src = "app%20screen%20shot/driver/notavailablefortrip.png" width ="200" /> 
-<img src = "app%20screen%20shot/driver/availablefortrip.png" width ="200" /> 
+<img src = "sc_newsapp/newspage.png" width ="200" /> <img src = "sc_newsapp/comments.png" width ="200" /> 
+<img src = "sc_newsapp/article.png" width ="200" /> 
