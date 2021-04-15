@@ -9,6 +9,6 @@ Simple news app
 - Navigation & Paging
 - Retrofit 
 
-# Driver UI
+# UI Screenshot
 <img src = "sc_newsapp/newspage.png" width ="300" /> <img src = "sc_newsapp/comments.png" width ="300" /> 
 <img src = "sc_newsapp/article.png" width ="300" /> 
